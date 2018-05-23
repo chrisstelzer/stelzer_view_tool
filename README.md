@@ -20,7 +20,8 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```@copyright = StelzerViewTool::Renderer.copyright 'Chris Stelzer', 'All rights reserved'
+```
 
 ## Development
 
